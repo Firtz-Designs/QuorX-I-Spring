@@ -7,11 +7,8 @@ James Watson, ihre Arbeiten über die Doppelhelix-Strukturen der DNA. Ihre <a hr
 Dies ist die "QuorX III" Version mit vielen weiteren Erweiterungen, Funktionen und ausgearbeiteten Designideen für dein Firtz. (Verwendung als Mono- oder Multipodcasting).
 
 ### Ältere Versionen
-#####QuorX - Version 2 (Parks)
-QuorX II trägt den Namen **(Parks)** und widme ich zu Ehren einer ganz besondere Frau: <a href="http://de.wikipedia.org/wiki/Rosa_Parks">Rosa Parks</a>.
-
-#####QuorX - Version 1 (Curie)
-QuorX I, Projektnamen: "Curie". Zu Ehren der Physikerin: <a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>.
+* **QuorX - Version 2 (Parks)** - QuorX II trägt den Namen **(Parks)** und widme ich zu Ehren einer ganz besondere Frau: <a href="http://de.wikipedia.org/wiki/Rosa_Parks">Rosa Parks</a>.
+* **QuorX - Version 1 (Curie)** - QuorX I, trug den Projektnamen: "Curie". Zu Ehren der Physikerin: <a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>.
 
 Letzter Stand: 25 Apr. 2015: QXII "Parks"
 
