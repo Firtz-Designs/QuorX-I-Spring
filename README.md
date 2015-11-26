@@ -1,7 +1,4 @@
-# QuorX-III
-
-
-
+# QuorX-III Dokumentation
 
 ###Version 3.0
 
