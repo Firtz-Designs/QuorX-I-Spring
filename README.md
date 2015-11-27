@@ -28,11 +28,11 @@ http://firtz-design.wikibyte.org
 ####Dokumentation
 
 - ...in Arbeit
-- [Datentabelle Funktionen](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Ultra/Funktionen.md)
-- [Datentabelle Extensions](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Ultra/Extensions.md)
+- [Datentabelle Funktionen](https://github.com/Firtz-Designs/QuorX-III/blob/master/docs/Funktionen.md)
+- [Datentabelle Extensions](https://github.com/Firtz-Designs/QuorX-III/blob/master/docs/Extensions.md)
 - ...in Arbeit
 
 ####Funktionsbild
 
-<img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/docs/img/buy/hooklines.png">
-<img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/docs/img/buy/functionlines.png">
+<img src="https://raw.githubusercontent.com/Firtz-Designs/QuorX-III/master/docs/img/hooklines.png">
+<img src="https://raw.githubusercontent.com/Firtz-Designs/QuorX-III/master/docs/img/functionlines.png">
