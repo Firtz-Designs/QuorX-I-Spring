@@ -11,26 +11,15 @@ Dies ist die "QuorX III" Version mit vielen weiteren Erweiterungen, Funktionen u
 * <a href="https://github.com/Firtz-Designs/QuorX-I">**QuorX** - Version 1 (Curie)</a> - QuorX I, trug den Projektnamen: **"Curie"**. Zu Ehren der bekannten Physikerin: <a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>.
 
 
-#####Developing Board
+##### Developing Board
 * [Übersicht Dev-Board](http://board.wikibyte.org/public/board/44a8c9d586a9769befe08eacaa44e893f087e1ab7f23658fd2d6f19499eb)
 * [Board RSS-Feed](http://board.wikibyte.org/feed/project/44a8c9d586a9769befe08eacaa44e893f087e1ab7f23658fd2d6f19499eb)
 * [Board iCal-Feed](http://board.wikibyte.org/ical/project/44a8c9d586a9769befe08eacaa44e893f087e1ab7f23658fd2d6f19499eb)
 
+#### Dokumentation
 
-####Demo
-
-http://firtz-design.wikibyte.org
-
-####Changelog
-
-- ...in Arbeit
-
-####Dokumentation
-
-- ...in Arbeit
 - [Datentabelle Funktionen](https://github.com/Firtz-Designs/QuorX-III/blob/master/docs/Funktionen.md)
 - [Datentabelle Extensions](https://github.com/Firtz-Designs/QuorX-III/blob/master/docs/Extensions.md)
-- ...in Arbeit
 
 ####Funktionsbild
 
